@@ -1,7 +1,6 @@
 # packages
 import streamlit as st
 import pandas as pd
-import plotly.graph_objs as go 
 import datetime
 import get_csv
 from numpy import insert
