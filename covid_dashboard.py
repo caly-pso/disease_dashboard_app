@@ -25,7 +25,7 @@ from graphing import (
     us_map,
     compare_state_confirmed_graph,
 )
-fig = go.Figure()
+
 # read in data
 data = get_csv.us_covid
 
