@@ -11,6 +11,7 @@ Vizualizing the spread of COVID-19 across the US and the World.
 # COVID-19 Analysis
 
 <!-- buttons -->
+<!-- https://shields.io/ -->
 
 ![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)
 ![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)
@@ -21,6 +22,9 @@ Vizualizing the spread of COVID-19 across the US and the World.
 <br>
 
 <!-- project in breif -->
+<!-- Background
+Problem Statement
+Data Description -->
 
 ### Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data.
 
@@ -142,4 +146,4 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 <br>
 
-![Footer](https://github.com/caly-pso/covid_app/blob/main/img/caly-pso.png)
+![Footer](https://github.com/caly-pso/covid_app/blob/main/img/footer.png)
