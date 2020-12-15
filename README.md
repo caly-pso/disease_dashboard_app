@@ -1,10 +1,143 @@
-# My Streamlit COVID-19 App
+<!-- Add banner here -->
 
-## The Beginnings:
-Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data. 
+![Banner](https://github.com/caly-pso/covid_app/blob/main/covid.png)
 
-Written in Python, this app uses Streamlit and Pandas to vizualize the data, and show trends over time.
+# COVID-19 Analysis
 
-Check back soon to see updates!
+<!-- Add buttons here -->
 
-### https://share.streamlit.io/caly-pso/covid_app/main/covid_dashboard.py
+![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)
+![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)
+
+<!-- Describe your project in brief -->
+
+### Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data.
+
+<br>
+
+### Written in Python, this app uses Streamlit and Pandas to vizualize the data, and show trends over time.
+
+<br>
+
+# Demo-Preview
+
+<!-- Add a demo for your project -->
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/caly-pso/covid_app/main/covid_dashboard.py)
+
+<!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
+
+Here is a random GIF as a placeholder.
+
+![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
+
+<br>
+
+# Table of contents
+
+- [Project Title](#covid-19-analysis)
+- [Demo-Preview](#demo-preview)
+- [Table of contents](#table-of-contents)
+- [Installation](#installation)
+- [License](#license)
+- [Footer](#footer)
+
+<br>
+
+# Installation
+
+[(Back to top)](#table-of-contents)
+
+Navigate to the folder you wish to use
+
+```bash
+cd Users/me/Desktop
+```
+
+Initalize git
+
+```bash
+git init
+```
+
+Clone the repo
+
+```bash
+git clone https://github.com/caly-pso/covid_app.git
+```
+
+Move into the project root folder
+
+```bash
+cd covid_app
+```
+
+Create virtual environment
+
+```bash
+python -m venv .venv
+```
+
+Activate the environment
+
+```bash
+source .venv/bin/activate
+```
+
+Install the requirements
+
+```bash
+pip install -r requirements_local.txt
+```
+
+Run the application locally
+
+```bash
+streamlit run covid_app.py
+```
+
+<br>
+
+<!-- # Development
+
+[(Back to top)](#table-of-contents)
+
+To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To
+
+<br> -->
+
+# License
+
+[(Back to top)](#table-of-contents)
+
+## [MIT Public License](https://github.com/caly-pso/covid_app/blob/main/LICENSE.md)
+
+<br>
+
+# Footer
+
+[(Back to top)](#table-of-contents)
+
+<br>
+
+<!-- Add the footer here -->
+
+## Contact Me
+
+    - calypso.ryknowski@gmail.com
+
+## Visit My Other Projects
+
+    - Python
+     - [Data Science](#)
+     - [Scripts](#)
+     - [Software Development](#)
+
+</details>
+
+<br>
+
+![Footer](#)
