@@ -2,11 +2,15 @@
 
 ![Banner](https://github.com/caly-pso/covid_app/blob/main/img/covid.png)
 
+# TL;DR
+
+Vizualizing the spread of COVID-19 across the US and the World.
+
+<br>
+
 # COVID-19 Analysis
 
-<!-- Add buttons here -->
-
-#
+<!-- buttons -->
 
 ![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)
 ![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)
@@ -14,7 +18,9 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)
 
-<!-- Describe your project in brief -->
+<br>
+
+<!-- project in breif -->
 
 ### Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data.
 
@@ -26,7 +32,7 @@
 
 # Preview
 
-<!-- Add a demo for your project -->
+<!-- project preview -->
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/caly-pso/covid_app/main/covid_dashboard.py)
 
@@ -36,12 +42,14 @@
 
 # Table of contents
 
+- [TL;DR](#tl;dr)
 - [COVID-19 Analysis](#covid-19-analysis)
 - [Preview](#preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [License](#license)
-- [Footer](#footer)
+- [Contact Me](#contact-me)
+- [Visit My Other Projects](#visit-my-other-projects)
 
 <br>
 
@@ -88,7 +96,7 @@ source .venv/bin/activate
 Install the requirements
 
 ```bash
-pip install -r requirements_local.txt
+pip install -r requirements.txt
 ```
 
 Run the application locally
@@ -123,14 +131,14 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 - calypso.ryknowski@gmail.com
 
+<br>
+
 # Visit My Other Projects
 
 - Python
-  - [Data Science](#)
-  - [Scripts](#)
-  - [Software Development](#)
-
-</details>
+  - [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
+  - [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
+  - [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
 
 <br>
 
