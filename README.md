@@ -1,10 +1,12 @@
 <!-- Add banner here -->
 
-![Banner](https://github.com/caly-pso/covid_app/blob/main/covid.png)
+![Banner](https://github.com/caly-pso/covid_app/blob/main/img/covid.png)
 
 # COVID-19 Analysis
 
 <!-- Add buttons here -->
+
+#
 
 ![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)
 ![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)
@@ -22,24 +24,20 @@
 
 <br>
 
-# Demo-Preview
+# Preview
 
 <!-- Add a demo for your project -->
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/caly-pso/covid_app/main/covid_dashboard.py)
 
-<!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
-
-Here is a random GIF as a placeholder.
-
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
+![COVID Dashboard](https://github.com/caly-pso/covid_app/blob/main/img/dashboard.png)
 
 <br>
 
 # Table of contents
 
-- [Project Title](#covid-19-analysis)
-- [Demo-Preview](#demo-preview)
+- [COVID-19 Analysis](#covid-19-analysis)
+- [Preview](#preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [License](#license)
@@ -113,7 +111,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 [(Back to top)](#table-of-contents)
 
-## [MIT Public License](https://github.com/caly-pso/covid_app/blob/main/LICENSE.md)
+[MIT Public License](https://github.com/caly-pso/covid_app/blob/main/LICENSE.md)
 
 <br>
 
@@ -127,17 +125,17 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 ## Contact Me
 
-    - calypso.ryknowski@gmail.com
+- calypso.ryknowski@gmail.com
 
 ## Visit My Other Projects
 
-    - Python
-     - [Data Science](#)
-     - [Scripts](#)
-     - [Software Development](#)
+- Python
+  - [Data Science](#)
+  - [Scripts](#)
+  - [Software Development](#)
 
 </details>
 
 <br>
 
-![Footer](#)
+![Footer](https://github.com/caly-pso/covid_app/blob/main/img/caly-pso.png)
