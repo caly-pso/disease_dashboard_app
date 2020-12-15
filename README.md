@@ -115,19 +115,15 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 <br>
 
-# Footer
-
 [(Back to top)](#table-of-contents)
-
-<br>
 
 <!-- Add the footer here -->
 
-## Contact Me
+# Contact Me
 
 - calypso.ryknowski@gmail.com
 
-## Visit My Other Projects
+# Visit My Other Projects
 
 - Python
   - [Data Science](#)
