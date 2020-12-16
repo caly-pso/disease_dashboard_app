@@ -1,16 +1,18 @@
 <!-- Add banner here -->
 
-[![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#tl;dr)
-[![Banner](https://github.com/caly-pso/covid_app/blob/main/img/covid.png)](#tl;dr)
+[![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#TL;DR)
+[![Banner](https://github.com/caly-pso/covid_app/blob/main/img/covid.png)](#TL;DR)
+
+# COVID-19 Analysis
 
 <!-- buttons -->
 <!-- https://shields.io/ -->
 
-![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)
-![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
 
 # TL;DR
 
@@ -18,7 +20,21 @@ Vizualizing the spread of COVID-19 across the US and the World.
 
 <br>
 
-# COVID-19 Analysis
+# Table of contents
+
+- [COVID-19 Analysis](#covid-19-analysis)
+- [#TL;DR](#TL;DR)
+- [Table of contents](#table-of-contents)
+- [Background](#background)
+- [Preview](#preview)
+- [Installation](#installation)
+- [License](#license)
+- [Visit My Other Projects](#visit-my-other-projects)
+- [Contact Me](#contact-me)
+
+<br>
+
+# Background
 
 <!-- project in breif -->
 <!-- Background
@@ -43,6 +59,8 @@ Written in Python, this app uses Streamlit and Pandas to vizualize the data, and
 
 # Preview
 
+###### [(Back to top)](#table-of-contents)
+
 <!-- project preview -->
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/caly-pso/covid_app/main/covid_dashboard.py)
@@ -51,22 +69,9 @@ Written in Python, this app uses Streamlit and Pandas to vizualize the data, and
 
 <br>
 
-# Table of contents
-
-- [TL;DR](#tl;dr)
-- [COVID-19 Analysis](#covid-19-analysis)
-- [Preview](#preview)
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [License](#license)
-- [Visit My Other Projects](#visit-my-other-projects)
-- [Contact Me](#contact-me)
-
-<br>
-
 # Installation
 
-[(Back to top)](#table-of-contents)
+###### [(Back to top)](#table-of-contents)
 
 Navigate to the folder you wish to use
 
@@ -120,7 +125,7 @@ streamlit run covid_app.py
 
 <!-- # Development
 
-[(Back to top)](#table-of-contents)
+###### [(Back to top)](#table-of-contents)
 
 To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To
 
@@ -128,25 +133,26 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 # License
 
-[(Back to top)](#table-of-contents)
+###### [(Back to top)](#table-of-contents)
 
 [MIT Public License](https://github.com/caly-pso/covid_app/blob/main/LICENSE.md)
 
 <br>
 
-[(Back to top)](#table-of-contents)
-
 <!-- Add the footer here -->
 
 # Visit My Other Projects
 
-- Python
-  - [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
-  - [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
-  - [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
+###### [(Back to top)](#table-of-contents)
+
+- [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
+- [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
+- [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
 
 <br>
 
 # Contact Me
+
+###### [(Back to top)](#table-of-contents)
 
 [![Footer](https://github.com/caly-pso/covid_app/blob/main/img/footer.png)](#contact-me)
