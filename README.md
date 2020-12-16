@@ -1,6 +1,7 @@
 <!-- Add banner here -->
 
-![Banner](https://github.com/caly-pso/covid_app/blob/main/img/covid.png)
+[![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#tl;dr)
+[![Banner](https://github.com/caly-pso/covid_app/blob/main/img/covid.png)](#tl;dr)
 
 # TL;DR
 
@@ -40,7 +41,7 @@ Data Description -->
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/caly-pso/covid_app/main/covid_dashboard.py)
 
-![COVID Dashboard](https://github.com/caly-pso/covid_app/blob/main/img/dashboard.png)
+[![COVID Dashboard](https://github.com/caly-pso/covid_app/blob/main/img/dashboard.png)](https://share.streamlit.io/caly-pso/covid_app/main/covid_dashboard.py)
 
 <br>
 
@@ -52,8 +53,8 @@ Data Description -->
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [License](#license)
-- [Contact Me](#contact-me)
 - [Visit My Other Projects](#visit-my-other-projects)
+- [Contact Me](#contact-me)
 
 <br>
 
