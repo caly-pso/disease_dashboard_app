@@ -146,4 +146,4 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 <br>
 
-![Footer](https://github.com/caly-pso/covid_app/blob/main/img/footer.png)
+![Footer](/blob/main/img/footer.png)
