@@ -139,6 +139,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
   - [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
 
 <br>
+
 # Contact Me
 
 - calypso.ryknowski@gmail.com
