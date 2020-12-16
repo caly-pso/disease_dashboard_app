@@ -131,18 +131,17 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 <!-- Add the footer here -->
 
-# Contact Me
-
-- calypso.ryknowski@gmail.com
-
-<br>
-
 # Visit My Other Projects
 
 - Python
   - [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
   - [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
   - [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
+
+<br>
+# Contact Me
+
+- calypso.ryknowski@gmail.com
 
 <br>
 
