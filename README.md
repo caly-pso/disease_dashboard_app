@@ -3,14 +3,6 @@
 [![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#tl;dr)
 [![Banner](https://github.com/caly-pso/covid_app/blob/main/img/covid.png)](#tl;dr)
 
-# TL;DR
-
-Vizualizing the spread of COVID-19 across the US and the World.
-
-<br>
-
-# COVID-19 Analysis
-
 <!-- buttons -->
 <!-- https://shields.io/ -->
 
@@ -20,18 +12,32 @@ Vizualizing the spread of COVID-19 across the US and the World.
 ![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)
 
+# TL;DR
+
+Vizualizing the spread of COVID-19 across the US and the World.
+
 <br>
+
+# COVID-19 Analysis
 
 <!-- project in breif -->
 <!-- Background
 Problem Statement
 Data Description -->
 
-### Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data.
+<!-- buttons -->
 
-<br>
+![Skills](https://img.shields.io/badge/-Python-yellowgreen?style=for-the-badge)
+![Skills](https://img.shields.io/badge/-Pandas-yellow?style=for-the-badge)
+![Skills](https://img.shields.io/badge/-Streamlit-orange?style=for-the-badge)
 
-### Written in Python, this app uses Streamlit and Pandas to vizualize the data, and show trends over time.
+<!--Colors: brightgreengreenyellowgreenyelloworangeredbluelightgrey
+successimportantcriticalinformationalinactive
+bluevioletff69b49cf-->
+
+Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data.
+
+Written in Python, this app uses Streamlit and Pandas to vizualize the data, and show trends over time.
 
 <br>
 
