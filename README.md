@@ -8,11 +8,11 @@
 <!-- buttons -->
 <!-- https://shields.io/ -->
 
-![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
-![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
-![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
-![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+[![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
+[![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
+[![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
+[![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
 
 # TL;DR
 
