@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <title>Covid-19 Streamlit Application Quick Start Guide</title>
+    <description>Download the Covid-19 application from GitHub using Git and use VS Code to run it.</description>
+    <step id="1">
+        Download the Project
+            <task id="1">Open your terminal or command line</task>
+            <task id="2">Navigate to the folder you want to use: 
+                <code>$Users/me/Desktop/Streamlit</code></task>
+            <task id="3">Initialize git in the folder: 
+                <code>$ git init</code></task>
+            <task id="4">Clone the GitHub repo: 
+                <code>$ git clone https://github.com/caly-pso/covid_app.git</code></task>
+    </step>
+    <step id="2">
+        Create a Virtual Environment
+            <task id="1">Move into the project's root folder: 
+                <code>$ cd covid_app</code></task>
+            <task id="2">Create a virtual environment: 
+                <code>$ python -m venv .venv</code></task>
+            <task  id="3">Activate the environment: 
+                <code>$ source .venv/bin/activate</code></task>
+            <task id="4">Clone the GitHub repo: 
+                <code>$ git clone https://github.com/caly-pso/covid_app.git</code></task>
+    </step>
+    <step id="3">
+        Run the Application
+            <task id="1">Install the requirements: 
+                <code>$ pip install -r requirements.txt</code></task>
+            <task id="2">Run the application locally: 
+                <code>$ streamlit run covid_app.py</code></task>
+    </step>
+</project>
