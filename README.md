@@ -16,7 +16,7 @@
 
 # TL;DR
 
-Vizualizing the spread of COVID-19 across the US and the World.
+Visualizing the spread of COVID-19 across the US and the World.
 
 <br>
 
@@ -36,7 +36,7 @@ Vizualizing the spread of COVID-19 across the US and the World.
 
 # Background
 
-<!-- project in breif -->
+<!-- project in brief -->
 <!-- Background
 Problem Statement
 Data Description -->
@@ -53,7 +53,7 @@ bluevioletff69b49cf-->
 
 Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data.
 
-Written in Python, this app uses Streamlit and Pandas to vizualize the data, and show trends over time.
+Written in Python, this app uses Streamlit and Pandas to visualize the data and show trends over time.
 
 <br>
 
@@ -79,7 +79,7 @@ Navigate to the folder you wish to use
 cd Users/me/Desktop
 ```
 
-Initalize git
+Initialize git
 
 ```bash
 git init
@@ -127,7 +127,7 @@ streamlit run covid_app.py
 
 ###### [(Back to top)](#table-of-contents)
 
-To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To
+To modify this application, you need to open up the covid_app.py files, and the function and graphing python files. To
 
 <br> -->
 
