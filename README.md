@@ -51,7 +51,7 @@ Data Description -->
 successimportantcriticalinformationalinactive
 bluevioletff69b49cf-->
 
-Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data.
+Utilizing the data from the New York Times, I have created an interactive display of this data.
 
 Written in Python, this app uses Streamlit and Pandas to vizualize the data, and show trends over time.
 
@@ -88,13 +88,13 @@ git init
 Clone the repo
 
 ```bash
-git clone https://github.com/caly-pso/covid_app.git
+git clone https://github.com/caly-pso/disease_dashboard_app.git
 ```
 
 Move into the project root folder
 
 ```bash
-cd covid_app
+cd disease_dashboard_app
 ```
 
 Create virtual environment
@@ -118,7 +118,7 @@ pip install -r requirements.txt
 Run the application locally
 
 ```bash
-streamlit run covid_app.py
+streamlit run disease_dashboard.py
 ```
 
 <br>
