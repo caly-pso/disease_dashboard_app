@@ -8,15 +8,15 @@
 <!-- buttons -->
 <!-- https://shields.io/ -->
 
-[![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
-[![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
-[![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
-[![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
+![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
 
 # TL;DR
 
-Visualizing the spread of COVID-19 across the US and the World.
+Vizualizing the spread of COVID-19 across the US and the World.
 
 <br>
 
@@ -36,7 +36,7 @@ Visualizing the spread of COVID-19 across the US and the World.
 
 # Background
 
-<!-- project in brief -->
+<!-- project in breif -->
 <!-- Background
 Problem Statement
 Data Description -->
@@ -53,7 +53,7 @@ bluevioletff69b49cf-->
 
 Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data.
 
-Written in Python, this app uses Streamlit and Pandas to visualize the data and show trends over time.
+Written in Python, this app uses Streamlit and Pandas to vizualize the data, and show trends over time.
 
 <br>
 
@@ -79,7 +79,7 @@ Navigate to the folder you wish to use
 cd Users/me/Desktop
 ```
 
-Initialize git
+Initalize git
 
 ```bash
 git init
@@ -127,7 +127,7 @@ streamlit run covid_app.py
 
 ###### [(Back to top)](#table-of-contents)
 
-To modify this application, you need to open up the covid_app.py files, and the function and graphing python files. To
+To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To
 
 <br> -->
 
