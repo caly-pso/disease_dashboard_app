@@ -1,6 +1,6 @@
 <!-- Add banner here -->
 
-[![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#TL;DR)
+[![Header](/img/header.png)](#TL;DR)
 [![Banner](/img/disease_details.png)](#TL;DR)
 
 # COVID-19 Analysis
@@ -155,4 +155,4 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 ###### [(Back to top)](#table-of-contents)
 
-[![Footer](https://github.com/caly-pso/covid_app/blob/main/img/footer.png)](#contact-me)
+[![Footer](/img/footer.png)](#contact-me)
