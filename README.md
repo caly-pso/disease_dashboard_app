@@ -23,7 +23,7 @@ Vizualizing diseases across the US and also the spread of COVID-19.
 # Table of contents
 
 - [Disease Dashboard and Analysis](#disease-dashboard-analysis)
-- [#TL;DR](#TL;DR)
+- [TL;DR](#TL;DR)
 - [Table of contents](#table-of-contents)
 - [Background](#background)
 - [Preview](#preview)
