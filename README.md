@@ -3,26 +3,26 @@
 [![Header](/img/header.png)](#TL;DR)
 [![Banner](/img/disease_details.png)](#TL;DR)
 
-# COVID-19 Analysis
+# Disease Dashboard and Analysis
 
 <!-- buttons -->
 <!-- https://shields.io/ -->
 
-[![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
-[![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
-[![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
-[![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)](#covid-19-analysis)
+[![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)](#disease-dashboard-analysis)
+[![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)](#disease-dashboard-analysis)
+[![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)](#disease-dashboard-analysis)
+[![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#disease-dashboard-analysis)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)](#disease-dashboard-analysis)
 
 # TL;DR
 
-Vizualizing the spread of COVID-19 across the US and the World.
+Vizualizing diseases across the US and also the spread of COVID-19.
 
 <br>
 
 # Table of contents
 
-- [COVID-19 Analysis](#covid-19-analysis)
+- [Disease Dashboard and Analysis](#disease-dashboard-analysis)
 - [#TL;DR](#TL;DR)
 - [Table of contents](#table-of-contents)
 - [Background](#background)
@@ -135,7 +135,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 ###### [(Back to top)](#table-of-contents)
 
-[MIT Public License](https://github.com/caly-pso/covid_app/blob/main/LICENSE.md)
+[MIT Public License](/LICENSE.md)
 
 <br>
 
