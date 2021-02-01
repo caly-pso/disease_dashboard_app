@@ -65,7 +65,7 @@ Written in Python, this app uses Streamlit and Pandas to vizualize the data, and
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/caly-pso/disease_dashboard_app/main/disease_dashboard.py)
 
-[![COVID Dashboard](https://github.com/caly-pso/covid_app/blob/main/img/dashboard.png)](https://share.streamlit.io/caly-pso/disease_dashboard_app/main/disease_dashboard.py)
+[![COVID Dashboard](https://github.com/caly-pso/disease_dashboard_app/blob/main/img/disease_app.gif)](https://share.streamlit.io/caly-pso/disease_dashboard_app/main/disease_dashboard.py)
 
 <br>
 
