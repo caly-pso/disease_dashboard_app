@@ -146,7 +146,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 ###### [(Back to top)](#table-of-contents)
 
 - [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
-- [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
+- [Formula 1 Analysis](https://github.com/caly-pso/formula1_analysis)
 - [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
 
 <br>
