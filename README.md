@@ -145,7 +145,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 ###### [(Back to top)](#table-of-contents)
 
-- [Technical Writing](https://github.com/caly-pso/technical_writing/blob/main/README.md)
+- [Technical Writing](https://github.com/caly-pso/technical_writing)
 - [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
 
 <br>
