@@ -127,7 +127,7 @@ streamlit run disease_dashboard.py
 
 ###### [(Back to top)](#table-of-contents)
 
-To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To
+To modify this application, you need to open up the disease_dashboard.py files, and the fuction and graphing python files. To
 
 <br> -->
 
